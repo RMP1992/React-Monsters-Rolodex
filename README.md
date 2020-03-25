@@ -1,3 +1,7 @@
+### Description
+
+This is a Monster Roledex, its basically a list of contacts which you can search through using the search bar.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
